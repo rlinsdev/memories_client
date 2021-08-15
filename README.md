@@ -1,3 +1,7 @@
+# Packages:
+* npx create-react-app ./
+* npm i axios moment react-file-base64 redux redux-thunk
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
