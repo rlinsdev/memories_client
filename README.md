@@ -1,6 +1,7 @@
 # Packages:
 * npx create-react-app ./
 * npm i axios moment react-file-base64 redux redux-thunk
+* npm i @material-ui/core
 
 # Getting Started with Create React App
 
