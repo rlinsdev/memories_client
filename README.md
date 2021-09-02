@@ -3,6 +3,7 @@
 * npm i axios moment react-file-base64 redux redux-thunk
 * npm i @material-ui/core
 * npm i react-redux
+* npm i @material-ui/icons
 
 # Getting Started with Create React App
 
