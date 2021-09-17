@@ -4,6 +4,8 @@
 * npm i @material-ui/core
 * npm i react-redux
 * npm i @material-ui/icons
+* npm run build
+* npm i jwt-decode react-google-login
 
 # Publish:
 * Netlify
