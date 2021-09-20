@@ -6,6 +6,7 @@
 * npm i @material-ui/icons
 * npm run build
 * npm i jwt-decode react-google-login
+* npm i react-router-dom
 
 # Publish:
 * Netlify
